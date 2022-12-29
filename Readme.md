@@ -129,3 +129,5 @@ No privacy collection will be performed.
 @TomCC7 for kindly supporting, testing and making suggestions for charcoal.
 
 @BinhaoQin for providing advice (and patience!) on PKGBUILD.
+
+@Gorgeous-Patrick for editing the readme.
